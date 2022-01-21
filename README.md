@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - ⚙️ I use daily `.tsx`, `.ts`, `.json`, `.css`, `.scss`, `.svg` and `.njk`
 - 🌱 I would like to know more about **Web Design**, **Clean Code**, **Digital Gardens** and **Computational Linguistics**
 - 🙋🏼‍♀️ Ping me about **React**, **CSS**, **JavaScript** and **RAMÓN**
-- 💬 I share interesting stuff about frontend development on my channel [Front Stuff](https://t.me/stuff_front) (Telegram)
+- 💬 I share interesting stuff about Front-End Development on my channel [Front Stuff](https://t.me/stuff_front) (Telegram)
 - ❤️ I love Nintendo, the 80's and the tropical house music. I had to say it.
 - ⚡️ Fun fact: I have two pets: [**Null**](https://en.wikipedia.org/wiki/Null_pointer) (cat) and [**Mocha**](https://github.com/doodlewind/mocha1995) (chihuahua)
 - 😮 Unexpected fact: I have a small Nokia collection. My top #1 is the model [Nokia 7600](https://en.wikipedia.org/wiki/Nokia_7600)
-- ❓ *maremarismaria* and The Last Curiosity: mi username *maremarismaria* comes from the latin noun *mare, maris* (neuter gender), which means 'Sea'. In a literal manner, *mare maris maria* means 'the Sea, from the Sea, the Seas'. Poetic, isn't it?
+- ❓ *maremarismaria* and The Last Curiosity: mi username *maremarismaria* comes from the Latin noun *mare, maris* (neuter gender), which means 'Sea'. In a literal manner, *mare maris maria* means 'the Sea, from the Sea, the Seas'. Poetic, isn't it?
 
 ### Languages and tools
 

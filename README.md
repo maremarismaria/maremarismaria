@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ❤️ I love Nintendo, the 80's and the tropical house music. I had to say it.
 - ⚡️ Fun fact: I have two pets: [**Null**](https://en.wikipedia.org/wiki/Null_pointer) (cat) and [**Mocha**](https://github.com/doodlewind/mocha1995) (chihuahua)
 - 😮 Unexpected fact: I have a small Nokia collection. My top #1 is the model [Nokia 7600](https://en.wikipedia.org/wiki/Nokia_7600)
-- ❓ *maremarismaria* and The Last Curiosity: mi username *maremarismaria* comes from the Latin noun *mare, maris* (neuter gender), which means 'Sea'. In a literal manner, *mare maris maria* means 'the Sea, from the Sea, the Seas'. Poetic, isn't it?
+- ❓ *maremarismaria* and The Last Curiosity: my username *maremarismaria* comes from the Latin noun *mare, maris* (neuter gender), which means 'Sea'. In a literal manner, *mare maris maria* means 'the Sea, from the Sea, the Seas'. Poetic, isn't it?
 
 ### Languages and tools
 

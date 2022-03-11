@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### I am María Morales, Front-End Developer from Canary Islands, Spain.
 
-- 🏢 I am currently working remotely at **Coded(People) S.L.** as **Lead Front-End Developer**
+- 🏢 I am currently working remotely at **Verbio Technologies S.L.** as **Front-End Engineer**
 - 📚 I am a [**Higher Technician in Development of Web Applications**](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf), but I am also [**Graduated in Spanish Philology**](https://en.wikipedia.org/wiki/Philology), specialized in Contemporary Literature and focused on [Ramón Gómez de la Serna](https://en.wikipedia.org/wiki/Ram%C3%B3n_G%C3%B3mez_de_la_Serna)
 - ⚙️ I use daily `.tsx`, `.ts`, `.json`, `.css`, `.scss`, `.svg` and `.njk`
 - 🌱 I would like to know more about **Web Design**, **Clean Code**, **Digital Gardens** and **Computational Linguistics**
